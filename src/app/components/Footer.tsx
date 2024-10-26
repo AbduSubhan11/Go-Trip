@@ -15,7 +15,7 @@ function footer() {
           />
           <p>
             We are dedicated to providing you with seamless booking experiences
-            and exceptional customer service. Whether you're planning a weekend
+            and exceptional customer service. Whether you are planning a weekend
             getaway, a family vacation, or a business trip, our platform offers
             a wide range of options tailored to your needs.
           </p>
