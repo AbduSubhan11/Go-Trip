@@ -26,14 +26,14 @@ function Page() {
           </h1>
           <p>
             We specialize in creating personalized travel experiences that cater
-            to all kinds of explorers—whether you're a solo traveler, a family,
+            to all kinds of explorers—whether you are a solo traveler, a family,
             or a group of friends. Our mission is to make travel easy,
             accessible, and enjoyable by offering a wide selection of curated
             tours, destinations, and activities to suit every interest and
             budget. With a dedicated team of travel experts and a passion for
             exploring the world, we ensure every journey is smooth and
             memorable. From the moment you start planning to the time you return
-            home, we're here to make your travel dreams come true. Join us and
+            home, we are here to make your travel dreams come true. Join us and
             discover the world with confidence and ease!
           </p>
           <p>
@@ -41,7 +41,7 @@ function Page() {
             personalization can make. Our team of travel experts and local
             guides work tirelessly to ensure each tour is as unique as the
             traveler who embarks on it. From 24/7 customer support to secure
-            booking and customizable itineraries, we’re committed to delivering
+            booking and customizable itineraries, we are committed to delivering
             excellence every step of the way.
           </p>
         </div>
