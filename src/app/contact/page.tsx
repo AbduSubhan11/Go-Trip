@@ -109,7 +109,7 @@ function Page() {
               <polyline points="3 7 12 13 21 7" />
             </svg>
             <div>
-              <h1>ranasubhanrajput6677@gmail.com</h1>
+              <h1>abdusubhan6678@gmail.com</h1>
               <p className="text-gray-400">Send us your query anytime!</p>
             </div>
           </div>
