@@ -5,12 +5,12 @@ import Link from "next/link";
 function Page() {
   return (
     <div>
-      <h1 className="text-[#f7a411] text-center py-32 font-semibold">
+      <h1 className="text-[#f7a411] text-center sm:py-32 py-20 font-semibold">
         Our Packages
       </h1>
       <div className="text-center">
         <h1 className="font-bold text-2xl font-serif">Popular Destinations</h1>
-        <p className="text-[#777777]">
+        <p className="text-[#777777] sm:text-xl text-1xl">
           We all live in an age that belongs to the young at heart. Life that is
           becoming extremely fast, day to.
         </p>

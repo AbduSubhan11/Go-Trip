@@ -4,10 +4,10 @@ import React from "react";
 function FavouritePlaces() {
   return (
     <div>
-      <h1 className="text-[#FFB400] text-center">FEATURED TOURS Packages</h1>
-      <h1 className="text-center font-bold text-5xl">Favourite Places</h1>
+      <h1 className="text-[#FFB400] text-center ">FEATURED TOURS PACKAGES</h1>
+      <h1 className="text-center font-bold sm:text-5xl text-[12vw]">Favourite Places</h1>
       {/* GRID */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 md:px-28 px-10 py-20 md:gap-4 gap-10">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 md:px-28 px-4 py-20 md:gap-4 gap-10">
         {/* CARD 1 */}
         <div className="rounded-md w-full h-fit overflow-hidden border">
           <div className="h-[70%]">

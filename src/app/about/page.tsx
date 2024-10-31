@@ -6,7 +6,7 @@ import PlateformOverview from "../components/Plateform Overview";
 function Page() {
   return (
     <div className="space-y-32">
-      <h1 className="text-[#f7a411] text-center py-20 font-semibold">
+      <h1 className="text-[#f7a411] text-center sm:py-32 py-16 font-semibold">
         About Us
       </h1>
       <div className="grid md:grid-cols-2 grid-cols-1 md:gap-0 gap-16">
