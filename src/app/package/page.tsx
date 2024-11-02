@@ -5,7 +5,7 @@ import Link from "next/link";
 function Page() {
   return (
     <div>
-      <h1 className="text-[#f7a411] text-center sm:py-32 py-20 font-semibold">
+      <h1 className="text-[#f7a411] text-center sm:py-32 py-16 font-semibold">
         Our Packages
       </h1>
       <div className="text-center">

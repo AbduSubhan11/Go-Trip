@@ -4,7 +4,7 @@ import TourDetails from "../components/Tour Details";
 function Page() {
   return (
     <div>
-      <h1 className="text-[#f7a411] text-center py-32 font-semibold">
+      <h1 className="text-[#f7a411] text-center sm:py-32 py-16 font-semibold">
         Contact Us
       </h1>
       {/* GRID */}
