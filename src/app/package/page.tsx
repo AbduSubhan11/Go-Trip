@@ -1,5 +1,5 @@
 import React from "react";
-import PackagesCards from "../../components/PackagesCards";
+import PackagesCards from "../../../components/PackagesCards";
 import Link from "next/link";
 
 function Page() {

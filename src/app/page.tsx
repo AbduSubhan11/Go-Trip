@@ -1,6 +1,6 @@
-import TourDetails from "../components/Tour Details";
-import FavouritePlaces from "../components/Favourite Places";
-import PlateformOverview from "../components/Plateform Overview";
+import TourDetails from "../../components/Tour Details";
+import FavouritePlaces from "../../components/Favourite Places";
+import PlateformOverview from "../../components/Plateform Overview";
 
 export default function Home() {
   return (

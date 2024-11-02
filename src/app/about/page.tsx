@@ -1,7 +1,7 @@
 import Image from "next/image";
 import React from "react";
-import TourDetails from "../../components/Tour Details";
-import PlateformOverview from "../../components/Plateform Overview";
+import TourDetails from "../../../components/Tour Details";
+import PlateformOverview from "../../../components/Plateform Overview";
 
 function Page() {
   return (

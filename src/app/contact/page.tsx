@@ -1,5 +1,5 @@
 import React from "react";
-import TourDetails from "../../components/Tour Details";
+import TourDetails from "../../../components/Tour Details";
 
 function Page() {
   return (
