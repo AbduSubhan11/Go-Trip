@@ -1,6 +1,7 @@
 import React from "react";
 import PackagesCards from "../../../components/PackagesCards";
 import Link from "next/link";
+import TourQuote from "../../../components/Tour Quote";
 
 function Page() {
   return (
@@ -48,6 +49,7 @@ function Page() {
           name="The Mountain in Forest"
         />
       </div>
+      <TourQuote/>
       <div className="flex flex-col justify-center items-center space-y-8">
         <h1 className="text-3xl font-bold text-center font-serif">
           Did not find your Package? Feel free to ask us. We‘ll make it for you
